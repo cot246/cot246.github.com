@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://coder6.com
+author: Shin
+pygments: true
+paginate: 16
