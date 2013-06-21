@@ -5,6 +5,7 @@ categories:
 - Life
 tags:
 - life
+---
 # 只怕不再遇上
 
 十年前GDP圣城聚首，十年后GDP再次杀入the finals。
