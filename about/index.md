@@ -4,8 +4,7 @@ layout: page
 comments: yes
 ---
 
-目前就读于武汉某高校,菜硕一枚.
-会一点点C/C++,一点点点python.      
+渴望肉身翻墙的技术渣。     
      
 
 个人邮箱:cot246@gmail.com      
